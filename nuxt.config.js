@@ -24,7 +24,7 @@ export default {
 
   router: {
     base: '/test-vue/'
-  }
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
